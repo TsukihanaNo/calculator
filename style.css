@@ -14,13 +14,15 @@ p {
 }
 
 .top-line {
-    font-size: 16px;
+    height: 24px;
+    font-size: 20px;
     margin-top: 5px;
     margin-bottom: 10px;
 }
 
 .bottom-line {
-    font-size: 24px;
+    height:32px;
+    font-size: 32px;
     margin-top: 5px;
     margin-bottom: 0;
 }
